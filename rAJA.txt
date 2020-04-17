@@ -2,3 +2,9 @@ pythonn
 javascript 
 html
 css
+
+
+jqueery 
+es6
+git
+
